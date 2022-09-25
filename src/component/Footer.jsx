@@ -56,16 +56,16 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex flex-wrap justify-center pt-16">
-        <a href="https://github.com/omkar-28" className="flex items-center justify-center text-3xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
+        <a href="https://github.com/omkar-28" target={"_blank"} rel={"noopener noreferrer"} className="flex items-center justify-center text-3xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
           <span className="sr-only">Github Icon</span>
           <i className="devicon-github-original"></i>
         </a>
-        <a href="https://www.linkedin.com/in/omkar-khatavkar-bb7051117/" className="mx-3 flex items-center justify-center text-2xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
+        <a href="https://www.linkedin.com/in/omkar-khatavkar-bb7051117/" target={"_blank"} rel={"noopener noreferrer"} className="mx-3 flex items-center justify-center text-2xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
           <span className="sr-only">LinkedIn Icon</span>
 
           <i className="devicon-linkedin-plain"></i>
         </a>
-        <a href="mailto:omikhatavkar2@gmail.com" className="flex items-center justify-center text-3xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
+        <a href="mailto:omikhatavkar2@gmail.com" target={"_blank"} rel={"noopener noreferrer"} className="flex items-center justify-center text-3xl w-10 h-10 sm:h-12 sm:w-12 rounded-full bg-indigo-500 text-gray-200 dark:bg-gray-700 dark:text-gray-900 shadow-xl hover:-translate-y-1 hover:dark:bg-gray-600 hover:dark:text-gray-800 transition ease-in-out duration-500">
           <span className="sr-only">Gmail Icon</span>
           <svg className="fill-gray-200 dark:fill-gray-900 hover:dark:bg-gray-600 hover:fill-gray-200 transition ease-in-out duration-500" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="current">
             <path d="m18.73 5.41-1.28 1L12 10.46 6.55 6.37l-1.28-1A2 2 0 0 0 2 7.05v11.59A1.36 1.36 0 0 0 3.36 20h3.19v-7.72L12 16.37l5.45-4.09V20h3.19A1.36 1.36 0 0 0 22 18.64V7.05a2 2 0 0 0-3.27-1.64z"></path>

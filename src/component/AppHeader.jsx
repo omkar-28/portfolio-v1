@@ -1,13 +1,6 @@
-import { Popover, Transition } from "@headlessui/react";
-import { Fragment, useEffect, useState } from "react";
+import { Popover } from "@headlessui/react";
 import { useThemeSwitcher } from "../hooks/useThemeSwitcher";
 import LOGO from "../assets/logo-svg.svg";
-const navigation = [
-  { name: "About", href: "#" },
-  { name: "Experience", href: "#" },
-  { name: "Work", href: "#" },
-  { name: "Contact", href: "#" },
-];
 
 const AppHeader = () => {
   const [activeTheme, setTheme] = useThemeSwitcher();

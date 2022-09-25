@@ -60,10 +60,10 @@ const Repos = () => {
   } else {
     repoContent = (
       <div className="repo_grid text-center">
-        <div className=" grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 pb-5 text-center">
+        <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 pb-5 text-center">
           <RepoItem topRepos={repoData} />
         </div>
-        <a href="https://github.com/omkar-28" target={"_blank"} rel="noopener noreferrer" className="block px-8 py-2 mt-4 w-40 mx-auto text-lg font-semibold shadow-xl rounded bg-indigo-700 text-slate-100   shadow-indigo-900/50 dark:shadow-gray-900/50 hover:shadow-none transition-shadow duration-500 ease-in-out" disabled>
+        <a href="https://github.com/omkar-28" target={"_blank"} rel={"noopener noreferrer"} className="block px-8 py-2 mt-4 w-40 mx-auto text-lg font-semibold shadow-xl rounded bg-indigo-700 text-slate-100 shadow-indigo-900/50 dark:shadow-gray-900/50 hover:shadow-none transition-shadow duration-500 ease-in-out" disabled>
           Github
         </a>
       </div>
