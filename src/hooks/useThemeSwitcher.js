@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 export const useThemeSwitcher = () => {
-  const [theme, setTheme] = useState(localStorage.theme);
+  const [theme, setTheme] = useState(localStorage.theme || "dark");
   const activeTheme = theme === "dark" ? "light" : "dark";
 
   useEffect(() => {
