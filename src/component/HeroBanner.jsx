@@ -1,4 +1,4 @@
-import RESUME from "../assets/omkar_khatavkar_resume.pdf";
+import RESUME from "../assets/omkar_khatavkar_frontend.pdf";
 const HeroBanner = () => {
   return (
     <section className="hero_section text-center pt-28 pb-32" id="hero">
