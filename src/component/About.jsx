@@ -19,7 +19,7 @@ function About() {
                 <a href="https://www.targetclose.com/" target={"_blank"} rel={"noopener noreferrer"} className="font-semibold dark:text-indigo-400">
                   a digital makerting
                 </a>
-                , I have also worked on few Freelancing project which included building website and web application. Currently i'm working on E-commerce webapp and Business Dashboard at{" "}
+                . Currently i'm working on E-commerce webapp and Business Dashboard at{" "}
                 <a href="https://www.v3it.com/" target={"_blank"} rel={"noopener noreferrer"} className="font-semibold dark:text-indigo-400">
                   V3IT
                 </a>
