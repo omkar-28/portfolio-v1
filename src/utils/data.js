@@ -27,7 +27,7 @@ export const employers = [
       company: "Darshan Design Pro Pvt. Ltd.",
       slug: "Darshan Design",
       location: "Belgaum, Karnataka",
-      range: "Dec 2016 - March 2018",
+      range: "Dec 2016 - May 2018",
       url: "https://web.northeastern.edu/scout/",
     },
     html: "<ul>\n<li>Developing and Designing the website as per the Client requirements and implementing the solutions using HTML, CSS, Bootstrap, and jQuery</li>\n<li>Done website PSD's as per the client requirement using Photoshop CS3</li>\n<li>Developed and supported client application using PHP CodeIgniter Framework for backend and MySQL for database</li></ul>",
